@@ -66,11 +66,8 @@ If you know what `/dev/sdb` means, **ffrog is for you**.
 
 Linux x86_64:
 
-```
+[Download ffrog v1.7 (Linux x86_64)](https://github.com/victormeloasm/ffrog/releases/download/v1.7/ffrog-1.7-linux-x86_64.tar.gz)
 
-[https://github.com/victormeloasm/ffrog/releases/download/v1.7/ffrog-1.7-linux-x86_64.tar.gz](https://github.com/victormeloasm/ffrog/releases/download/v1.7/ffrog-1.7-linux-x86_64.tar.gz)
-
-````
 
 ---
 
