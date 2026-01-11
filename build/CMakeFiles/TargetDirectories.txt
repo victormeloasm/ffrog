@@ -1,0 +1,9 @@
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/ffrog.dir
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/edit_cache.dir
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/rebuild_cache.dir
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/list_install_components.dir
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/install.dir
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/install/local.dir
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/install/strip.dir
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/ffrog_autogen_timestamp_deps.dir
+/home/victor/ffrog/FrogFormatQt/build/CMakeFiles/ffrog_autogen.dir

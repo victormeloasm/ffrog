@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/victor/ffrog/FrogFormatQt/build",
+  "command": "/usr/bin/g++ -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_DBUS_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/victor/ffrog/FrogFormatQt/build/ffrog_autogen/include -I/home/victor/ffrog/FrogFormatQt/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtDBus -isystem /usr/include/x86_64-linux-gnu/qt6/QtConcurrent -O3 -DNDEBUG -pipe -ffunction-sections -fdata-sections  -flto -std=c++23 -Wall -Wextra -Wpedantic -o CMakeFiles/ffrog.dir/ffrog_autogen/mocs_compilation.cpp.o -c /home/victor/ffrog/FrogFormatQt/build/ffrog_autogen/mocs_compilation.cpp",
+  "file": "/home/victor/ffrog/FrogFormatQt/build/ffrog_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/ffrog.dir/ffrog_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/victor/ffrog/FrogFormatQt/build",
+  "command": "/usr/bin/g++ -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_DBUS_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/victor/ffrog/FrogFormatQt/build/ffrog_autogen/include -I/home/victor/ffrog/FrogFormatQt/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtDBus -isystem /usr/include/x86_64-linux-gnu/qt6/QtConcurrent -O3 -DNDEBUG -pipe -ffunction-sections -fdata-sections  -flto -std=c++23 -Wall -Wextra -Wpedantic -o CMakeFiles/ffrog.dir/src/main.cpp.o -c /home/victor/ffrog/FrogFormatQt/src/main.cpp",
+  "file": "/home/victor/ffrog/FrogFormatQt/src/main.cpp",
+  "output": "CMakeFiles/ffrog.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/victor/ffrog/FrogFormatQt/build",
+  "command": "/usr/bin/g++ -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_DBUS_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/victor/ffrog/FrogFormatQt/build/ffrog_autogen/include -I/home/victor/ffrog/FrogFormatQt/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtDBus -isystem /usr/include/x86_64-linux-gnu/qt6/QtConcurrent -O3 -DNDEBUG -pipe -ffunction-sections -fdata-sections  -flto -std=c++23 -Wall -Wextra -Wpedantic -o CMakeFiles/ffrog.dir/src/MainWindow.cpp.o -c /home/victor/ffrog/FrogFormatQt/src/MainWindow.cpp",
+  "file": "/home/victor/ffrog/FrogFormatQt/src/MainWindow.cpp",
+  "output": "CMakeFiles/ffrog.dir/src/MainWindow.cpp.o"
+},
+{
+  "directory": "/home/victor/ffrog/FrogFormatQt/build",
+  "command": "/usr/bin/g++ -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_DBUS_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/victor/ffrog/FrogFormatQt/build/ffrog_autogen/include -I/home/victor/ffrog/FrogFormatQt/src -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtDBus -isystem /usr/include/x86_64-linux-gnu/qt6/QtConcurrent -O3 -DNDEBUG -pipe -ffunction-sections -fdata-sections  -flto -std=c++23 -Wall -Wextra -Wpedantic -o CMakeFiles/ffrog.dir/src/UDisks2.cpp.o -c /home/victor/ffrog/FrogFormatQt/src/UDisks2.cpp",
+  "file": "/home/victor/ffrog/FrogFormatQt/src/UDisks2.cpp",
+  "output": "CMakeFiles/ffrog.dir/src/UDisks2.cpp.o"
+}
+]
